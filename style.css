@@ -1,0 +1,45 @@
+
+
+#navbar{
+    
+    height: 60px;
+    background-color: #0f1111;
+    border:3px solid white;
+    
+    
+}
+
+
+#logo{
+    color: orangered;
+    text-size-adjust: 25px;
+    font-weight: bold;
+}
+#submit{
+    background-color: #f08804;
+    font-size: small;
+    font-weight: lighter;
+}
+a{
+    margin-right: 50px;
+    text-decoration:none;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    color: aliceblue;
+}
+.contentbox{
+    height: 100px;
+    width: 100px;
+    border: 3px solid black;
+    display: inline-block;
+}
+#content{
+    height: 590px;
+}
+footer{
+    background-color: #0f1111;
+    text-align: center;
+}

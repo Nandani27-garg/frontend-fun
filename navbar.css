@@ -1,0 +1,31 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    color: aliceblue;
+}
+#navbar{
+    
+    height: 60px;
+    background-color: #0f1111;
+    border:3px solid white;
+    
+    
+}
+body{
+    background-color:brown;
+}
+#logo{
+    color: orangered;
+    text-size-adjust: 25px;
+    font-weight: bold;
+}
+#submit{
+    background-color: #f08804;
+    font-size: small;
+    font-weight: lighter;
+}
+a{
+    margin-right: 50px;
+    text-decoration:none;
+}
+
